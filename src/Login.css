@@ -1,0 +1,41 @@
+.name{
+    color: blue;
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+.full{
+    background-color: bisque;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    height: 300px;
+    width: 350px;
+    background-color: azure;
+    border-radius: 6%;
+    flex-direction: column;
+}
+.input{
+    width: 280px;
+    flex-direction: column;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.label{
+    margin-left: 30px;
+}
+.label1{
+    margin-left: 30px;
+}
+.btn{
+    margin-left: 135px;
+    margin-top: 20px;
+}
+.ip{
+    margin-left: 10px;
+}
+.ip1{
+    margin-left: 10px;
+}
